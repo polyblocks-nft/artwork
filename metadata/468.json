@@ -1,0 +1,20 @@
+{
+  "name": "Polyblock #468",
+  "tokenId": 468,
+  "image": "ipfs://QmYgGX7szvPafsJbv7VZu2ikVwAQr3Ch8QL6ktsMwufstB/468.svg",
+  "attributes": [
+    {
+      "trait_type": "Weight",
+      "value": 20
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "DNA",
+      "value": "1111111001100111111110111"
+    }
+  ],
+  "description": "Polyblocks is a collection of 3001 unique ERC20 NFTs stored on the Polygon blockchain. Every Polyblock is a unique combination of squares arranged in a 5x5 grid over a colored circle. Although each Polyblock is unique, some might be considered rarer because of circle color or number of blocks."
+}
